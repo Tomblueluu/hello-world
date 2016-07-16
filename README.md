@@ -1,2 +1,4 @@
 # hello-world
-the first product of github
+the first project of github
+
+hello everybody! I am a girl who liks coding.
